@@ -1,1 +1,1 @@
-# sentiment_analyzer
+# Web scraper and sentiment_analyzer
